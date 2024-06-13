@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\bin\Debug\net5.0\Interface_1.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\refint\Interface_1.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\Interface_1.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\interface\Interface_1\obj\Debug\net5.0\ref\Interface_1.dll
